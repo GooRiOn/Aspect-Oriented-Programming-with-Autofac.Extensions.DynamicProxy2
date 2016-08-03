@@ -1,0 +1,16 @@
+C:\REPO\AOP\AOP\bin\Debug\AOP.exe.config
+C:\REPO\AOP\AOP\bin\Debug\AOP.exe
+C:\REPO\AOP\AOP\bin\Debug\AOP.pdb
+C:\REPO\AOP\AOP\bin\Debug\Autofac.dll
+C:\REPO\AOP\AOP\bin\Debug\Autofac.Extras.DynamicProxy2.dll
+C:\REPO\AOP\AOP\bin\Debug\Castle.Core.dll
+C:\REPO\AOP\AOP\bin\Debug\Autofac.xml
+C:\REPO\AOP\AOP\bin\Debug\Autofac.Extras.DynamicProxy2.xml
+C:\REPO\AOP\AOP\bin\Debug\Castle.Core.xml
+C:\REPO\AOP\AOP\obj\Debug\AOP.csprojResolveAssemblyReference.cache
+C:\REPO\AOP\AOP\obj\Debug\AOP.exe
+C:\REPO\AOP\AOP\obj\Debug\AOP.pdb
+C:\REPO\AOP\AOP\bin\Debug\EntityFramework.dll
+C:\REPO\AOP\AOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\REPO\AOP\AOP\bin\Debug\EntityFramework.xml
+C:\REPO\AOP\AOP\bin\Debug\EntityFramework.SqlServer.xml
